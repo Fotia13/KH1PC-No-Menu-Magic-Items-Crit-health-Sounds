@@ -1,0 +1,3 @@
+# KH1PC-ASMR-Ambience
+
+Disable various Sounds Effect like menu, magic, items, heartless spawn, critical health sound...

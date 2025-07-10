@@ -1,0 +1,9 @@
+title: ASMR/Ambience Mod
+originalAuthor: Fotia13
+description: Disable various Sounds Effect like menu, magic, items, heartless spawn, critical health sound...
+dependencies: 
+assets:
+- name: remastered/amusic/se000.dat/se000.win32.scd
+  method: copy
+  source:
+  - name: se000.win32.scd
